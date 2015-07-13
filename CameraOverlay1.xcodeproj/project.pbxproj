@@ -409,6 +409,7 @@
 				416883761B52C45000DCE806 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		416883771B52C45000DCE806 /* Build configuration list for PBXNativeTarget "CameraOverlay1Tests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				416883791B52C45000DCE806 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
